@@ -4,10 +4,10 @@
 # ============================================================================
 
 # ---- Package identity (fixed) ----
-TITLE       := ShadCube4
+TITLE       := Nexus PS4
 VERSION     := 01.00
-TITLE_ID    := SHAD00004
-CONTENT_ID  := IV0000-SHAD00004_00-SHADCUBE40000000
+TITLE_ID    := NEXU00001
+CONTENT_ID  := IV0000-NEXU00001_00-NEXUSPS400000001
 
 EXTRAFLAGS  :=
 
