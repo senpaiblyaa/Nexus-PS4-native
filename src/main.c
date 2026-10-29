@@ -1498,6 +1498,7 @@ static void post_consts(uint32_t* t, float a, float b, float c, float d) {
 /* ==== §11 Modules: time sources, UI, glass clock ============================================== */
 #include "timesrc.h"
 #include "ui.h"
+void nexus_draw(unsigned char* buffer);
 
 /* after timesrc.h / ui.h: the clock uses g_ts */
 #include "clock.h" /* glass clock: text, per-frame constants */
