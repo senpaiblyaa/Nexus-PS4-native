@@ -33,7 +33,7 @@
 #define DISPLAY_POLL 1
 /* FLIP_PROBE: replace the renderer with the VideoOut label probe (src/flipprobe.h), logged to
    /user/data/ShadCube4/flipprobe.log; the app exits when it is done. */
-#define FLIP_PROBE 1
+#define FLIP_PROBE 0
 
 #define WAITFREE_SUBMIT 0 /* GNM wait-free submit mode (§15.1): off */
 
